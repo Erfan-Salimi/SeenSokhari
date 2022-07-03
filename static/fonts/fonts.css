@@ -1,0 +1,46 @@
+@font-face {
+  font-family: Vazir;
+  src: url('./Vazir.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Lalezar;
+  src: url('./Lalezar.ttf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Afsaneh;
+  src: url('./Afsaneh.ttf');
+  font-weight: bold;
+}
+@font-face {
+    font-family: IranYekan;
+    src: url('./IRANYekanWeb-Regular.ttf');
+    font-style: normal;
+}
+@font-face {
+    font-family: Andalus;
+    src: url('./Far_Andalus.ttf');
+    font-style: normal;
+}
+
+.title-font{
+    font-family: Andalus !important;
+}
+
+.lalezar{
+    font-family: Lalezar !important;
+}
+
+.vazir{
+    font-family: Vazir !important;
+}
+
+.afsaneh{
+    font-family: Afsaneh !important;
+}
+.iranyekan{
+    font-family: IranYekan !important;
+}
